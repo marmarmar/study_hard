@@ -1,4 +1,4 @@
-class Dragon():
+class FlyingDog():
 	pass
-class Mentor():
+class Human():
 	pass
