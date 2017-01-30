@@ -1,4 +1,10 @@
 class Dragon():
 	pass
-class Mentor():
+
+class Elf:
+	def__init__(self, name, power):
+	self.name = name
+	self.power = power
+
+class MentorDupa():
 	pass
